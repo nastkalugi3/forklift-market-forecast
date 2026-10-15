@@ -1,0 +1,16 @@
+indicator,period,value,unit,source_org,url,retrieved,status,note
+leasing_new_business,2022H1,770,млрд руб.,Эксперт РА,https://raexpert.ru/researches/leasing/1h_2026a/,2026-09-25,полугодовой ряд,"-18,5% г/г"
+leasing_new_business,2023H1,1490,млрд руб.,Эксперт РА,https://raexpert.ru/researches/leasing/1h_2026a/,2026-09-25,полугодовой ряд,"+93,5% г/г"
+leasing_new_business,2024H1,1480,млрд руб.,Эксперт РА,https://raexpert.ru/researches/leasing/1h_2026a/,2026-09-25,полугодовой ряд,"-0,7% г/г"
+leasing_new_business,2025H1,813,млрд руб.,Эксперт РА,https://raexpert.ru/researches/leasing/1h_2026a/,2026-09-25,полугодовой ряд,"-45,1% г/г"
+leasing_new_business,2026H1,853,млрд руб.,Эксперт РА,https://raexpert.ru/researches/leasing/1h_2026a/,2026-09-25,полугодовой ряд,"+4,9% г/г; без б/у техники рост отсутствует (~740 млрд, по оценке агентства)"
+leasing_forklifts_share,2026H1,2.2,% нового бизнеса,Эксперт РА,https://raexpert.ru/researches/leasing/1h_2026a/,2026-09-25,одна точка,"сегмент «погрузчики»: +46,7% г/г (≈19 млрд руб.); ряд за прошлые периоды не найден в открытом виде"
+warehouse_supply_russia,2024,4.9,млн кв. м,IBC Real Estate,https://ibcrealestate.ru/news/obem-vvoda-na-rynke-skladskoy-nedvizhimosti-prevzoshel-vse-ozhidaniya/,2026-09-25,годовое значение,"«более 4,9 млн кв. м», +21% к 2023; методики консультантов различаются"
+warehouse_supply_russia,2025_9M,3.46,млн кв. м,NF Group,https://kf.expert/news/v-2026-godu-obem-vvoda-skladskoj-nedvizhimosti-v-rossii-mozhet-sostavit-poryadka-62-mln-kv-m,2026-09-25,частичный период,"сделки за 9 мес. 2025: 1,75 млн кв. м; прогноз ввода 2026: 6,2 млн кв. м"
+warehouse_supply_russia,2026Q1,1.7,млн кв. м,IBC Real Estate,https://ibcrealestate.ru/research/2026-q1-skladskaya-nedvizhimost/,2026-09-25,квартальное значение,"рекордный ввод; спрос 0,7 млн кв. м (-33% г/г)"
+forklift_imports,2022-2026,,шт.,ФТС,,2026-09-25,НЕ НАЙДЕНО,ФТС не публикует детальную статистику внешней торговли с 2022 г.; открытых официальных квартальных данных по импорту погрузчиков (ТН ВЭД 8427) нет. Прокси: импорт товаров по платёжному балансу (cbr_bop_goods_quarterly.csv)
+util_fee_special_machinery,2026-01,15-20,% повышения,отраслевые СМИ,https://spectechnika.com.ru/blog/detail/utilsbor-2026/,2026-09-25,событие (непроверено),"утильсбор на самоходную спецтехнику повышен с 1.01.2026 примерно на 15–20% (источник — дилерский блог, не НПА); распространение на вилочные погрузчики ДВС/электро в источнике не указано → нужна проверка по постановлению Правительства"
+leasing_new_business,2025,2009.0,млрд руб.,Эксперт РА,https://raexpert.ru/researches/leasing/2025/,2026-10-02,годовое значение,"−39,9 % к 2024 г.; причины по агентству: высокие ставки, долговая нагрузка, ужесточение скоринга"
+leasing_forklifts_share,2025,2.1,% нового бизнеса,Эксперт РА,https://raexpert.ru/researches/leasing/2025/,2026-10-02,годовое значение,"сегмент «погрузчики»: +1,6 % г/г в деньгах"
+vat_rate,2026-01,22.0,%,федеральный закон (подписан 28.11.2025),https://www.rbc.ru/economics/28/11/2025/6929b8499a7947250a852e97,2026-10-02,событие,повышение НДС с 20 до 22 % с 1 января 2026 г.
+util_fee_special_machinery,2026-01,,,отраслевые СМИ (рынок погрузчиков),https://www.liftnet.ru/novosti/povyshieniie-util-sbora-s-01012026/,2026-10-02,событие (отраслевой источник),повышение утилизационного сбора на спецтехнику с 1 января 2026 г.
